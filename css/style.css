@@ -42,6 +42,7 @@ body {
   min-height: 100%;
   overflow: hidden;
   display: flex;
+  margin: 0px auto;
   flex-direction: column;
   box-sizing: content-box;
   max-width: 1440px;

@@ -184,7 +184,7 @@ body {
 }
 .white_button:hover {
   background: #f9c600;
-  border: none;
+  border: 1px solid #f9c600;
 }
 
 .research__hooli {
@@ -553,7 +553,7 @@ body {
 .study_second-box_person-name {
   font-size: 16px;
   line-height: 150%;
-}
+} 
 .study_second-box_person-profession {
   line-height: 167.7%;
   color: #2f3f48;

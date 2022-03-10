@@ -645,6 +645,9 @@ body {
   font-size: 16px;
   line-height: 150%;
 }
+.menu-footer__link:hover{
+  text-decoration: underline;
+}
 .footer__bottom {
   display: flex;
 }
